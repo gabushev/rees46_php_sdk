@@ -1,4 +1,5 @@
 <?php
+namespace Rees46;
 
 class REES46 {
 
